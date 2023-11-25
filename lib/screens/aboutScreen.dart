@@ -160,9 +160,9 @@ class _ProfilePageState extends State<ProfilePage> {
               padding: EdgeInsets.only(left: 20, right: 20, bottom: 20),
               child: Text(
                 // ignore: prefer_interpolation_to_compose_strings
-                "Saya adalah seorang Mahasiswa S1 Teknik Komputer di Universitas Diponegoro yang memiliki minat pada bidang IoT, Embedded System, dan Robotic. " +
-                    "Saya membuat aplikasi ini karena terpaksa agar tidak mengulang praktikum karena minat saya bukan di sini. " +
-                    "Sejujurnya saya ngga paham Flutter dan begadang 4 hari ngerjain ginian sambil belajar Flutter ngejar deadline.",
+                "Saya adalah seorang Mahasiswa S1 Teknik Komputer di Universitas Diponegoro yang memiliki minat pada bidang IoT, Embedded System, dan Jaringan. " +
+                    "Saya membuat aplikasi ini dengan tujuan untuk memenuhi Tugas Akhir Praktikum Pemrograman Perangkat Bergerak. " +
+                    "Dan Flutter menjadi pilihan saya karena cukup ringan dijalankan dan tidak terlalu sulit dalam memahami programnya. ",
                 style: TextStyle(
                     fontWeight: FontWeight.w400,
                     fontSize: 14,
